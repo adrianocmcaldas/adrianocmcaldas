@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-label="Adriano Caldas — Estratégia · Sistemas · Operação">
+  <rect width="1280" height="300" fill="#eef2f7"/>
+  <g stroke="#10233c" stroke-opacity="0.06">
+    <path d="M0 56h1280M0 112h1280M0 168h1280M0 224h1280M0 280h1280"/>
+    <path d="M56 0v300M112 0v300M168 0v300M224 0v300M280 0v300M336 0v300M392 0v300M448 0v300M504 0v300M560 0v300M616 0v300M672 0v300M728 0v300M784 0v300M840 0v300M896 0v300M952 0v300M1008 0v300M1064 0v300M1120 0v300M1176 0v300M1232 0v300"/>
+  </g>
+  <text x="64" y="76" fill="#55677a" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="13" letter-spacing="4">AC / ADRIANO CALDAS · CANAL 01 — PERFIL</text>
+  <text x="1216" y="76" text-anchor="end" fill="#b84510" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="13" letter-spacing="4">2003 ⟶ HOJE · GLOBAL / 24H</text>
+  <text x="60" y="164" fill="#10233c" font-family="'Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Adriano <tspan fill="none" stroke="#245ce7" stroke-width="1.6">Caldas</tspan></text>
+  <path d="M0 226 L360 226 L392 190 L424 258 L448 226 L672 226 L700 208 L728 244 L756 226 L964 226 L992 156 L1020 282 L1048 226 L1280 226" fill="none" stroke="#e07000" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M0 234 L360 234 L392 198 L424 266 L448 234 L672 234 L700 216 L728 252 L756 234 L964 234" fill="none" stroke="#245ce7" stroke-width="1.2" stroke-opacity="0.45" stroke-linejoin="round"/>
+  <text x="64" y="272" fill="#344a61" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14" letter-spacing="5">ESTRATÉGIA · SISTEMAS · OPERAÇÃO</text>
+  <circle cx="1180" cy="266" r="4" fill="#0f8a62"/>
+  <text x="1192" y="271" fill="#0f8a62" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" letter-spacing="3">EM OPERAÇÃO</text>
+</svg>
