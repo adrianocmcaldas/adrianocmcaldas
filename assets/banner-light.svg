@@ -13,8 +13,8 @@
     <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
   </path>
   <text x="64" y="272" fill="#344a61" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="14" letter-spacing="5">ESTRATÉGIA · SISTEMAS · OPERAÇÃO</text>
-  <circle cx="1180" cy="266" r="4" fill="#0f8a62">
+  <circle cx="1100" cy="266" r="4" fill="#0f8a62">
     <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
   </circle>
-  <text x="1192" y="271" fill="#0f8a62" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" letter-spacing="3">EM OPERAÇÃO</text>
+  <text x="1216" y="271" text-anchor="end" fill="#0f8a62" font-family="'SF Mono','Cascadia Code','Fira Code',Consolas,monospace" font-size="12" letter-spacing="3">EM OPERAÇÃO</text>
 </svg>
