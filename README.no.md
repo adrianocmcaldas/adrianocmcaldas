@@ -21,6 +21,10 @@
 
 Jeg arbeider i skjæringspunktet mellom **teknologiledelse**, **produktutvikling** og **drift av komplekse miljøer**. Jeg har hatt CTO-roller i multinasjonale virksomheter og leder egne og eksterne initiativer i flere land. Siden **2003** har jeg arbeidet med digital signalbehandling, KI-algoritmer og trening av modeller — et grunnlag som har utviklet seg til programvare, telekommunikasjon, sky, nettverk, automatisering og anvendt elektronikk.
 
+## `»` Nyeste · Agentic AI Factory
+
+[**NordixBIOS**](https://nordixbios.com) er mitt nyeste prosjekt: en **Agentic AI Factory** — den kobles til programvaren din (ERP, CRM, kasse eller vertikal SaaS) og leverer full infrastruktur for å skape og drifte **KI-arbeidere** i alle lag, under din merkevare.
+
 ## `»` Kompetanse
 
 <div align="center">
@@ -51,9 +55,9 @@ Jeg arbeider i skjæringspunktet mellom **teknologiledelse**, **produktutvikling
 
 | Eget produkt | Fokus | Domene |
 |---|---|---|
+| **NordixBIOS** | **Agentic AI Factory** — KI-arbeidere for programvaren din | [nordixbios.com](https://nordixbios.com) |
 | **Cinteca** | Teknologimerket til AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | KI og programvare for juridisk sektor | [legalneuron.es](https://legalneuron.es) |
-| **NordixBIOS** | KI-assistenter integrert i produkter | [nordixbios.com](https://nordixbios.com) |
 | **NCS Engine** | Infrastruktur for KI-arbeidslaster | [ncsengine.com](https://ncsengine.com) |
 | **Nordix Systems** | Digitale systemer og løsninger | [nordixsystems.com](https://nordixsystems.com) |
 | **CINTE** | Telekommunikasjon og teknologi, siden 2004 | [cinte.com.br](https://cinte.com.br) |

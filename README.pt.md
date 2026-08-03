@@ -21,6 +21,10 @@
 
 Atuo entre **direção tecnológica**, **criação de produtos** e **operação de ambientes complexos**. Já exerci funções de CTO em organizações multinacionais e conduzo iniciativas próprias e de terceiros em diferentes países. Desde **2003** trabalho com processamento digital de sinais, algoritmos de IA e treinamento de modelos — base que evoluiu para software, telecomunicações, cloud, redes, automação e eletrônica aplicada.
 
+## `»` Mais recente · Agentic AI Factory
+
+O [**NordixBIOS**](https://nordixbios.com) é o meu projeto mais recente: uma **Agentic AI Factory** — liga-se ao seu software (ERP, CRM, TPV ou SaaS vertical) e fornece a infraestrutura completa para criar e operar **trabalhadores de IA** em todas as camadas, com a sua marca.
+
 ## `»` Atuação
 
 <div align="center">
@@ -51,9 +55,9 @@ Atuo entre **direção tecnológica**, **criação de produtos** e **operação 
 
 | Produto próprio | Foco | Domínio |
 |---|---|---|
+| **NordixBIOS** | **Agentic AI Factory** — trabalhadores de IA para o seu software | [nordixbios.com](https://nordixbios.com) |
 | **Cinteca** | Marca tecnológica da AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | IA e software para o setor jurídico | [legalneuron.es](https://legalneuron.es) |
-| **NordixBIOS** | Assistentes de IA integrados a produtos | [nordixbios.com](https://nordixbios.com) |
 | **NCS Engine** | Infraestrutura para cargas de IA | [ncsengine.com](https://ncsengine.com) |
 | **Nordix Systems** | Sistemas e soluções digitais | [nordixsystems.com](https://nordixsystems.com) |
 | **CINTE** | Telecomunicações e tecnologia, desde 2004 | [cinte.com.br](https://cinte.com.br) |

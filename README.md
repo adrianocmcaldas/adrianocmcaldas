@@ -21,6 +21,10 @@
 
 I work across **technology direction**, **product creation** and **complex operations**. I have served in CTO roles in multinational organisations and lead owned and third-party initiatives across different countries. Since **2003** I have worked with digital signal processing, AI algorithms and model training — a foundation that has grown into software, telecommunications, cloud, networks, automation and applied electronics.
 
+## `»` Latest · Agentic AI Factory
+
+[**NordixBIOS**](https://nordixbios.com) is my most recent project: an **Agentic AI Factory** — it connects to your software (ERP, CRM, POS or vertical SaaS) and provides the full infrastructure to create and operate **AI workers** across every layer, under your brand.
+
 ## `»` Capabilities
 
 <div align="center">
@@ -51,9 +55,9 @@ I work across **technology direction**, **product creation** and **complex opera
 
 | Owned product | Focus | Domain |
 |---|---|---|
+| **NordixBIOS** | **Agentic AI Factory** — AI workers for your software | [nordixbios.com](https://nordixbios.com) |
 | **Cinteca** | Technology brand of AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | AI and software for the legal sector | [legalneuron.es](https://legalneuron.es) |
-| **NordixBIOS** | AI assistants integrated into products | [nordixbios.com](https://nordixbios.com) |
 | **NCS Engine** | Infrastructure for AI workloads | [ncsengine.com](https://ncsengine.com) |
 | **Nordix Systems** | Digital systems and solutions | [nordixsystems.com](https://nordixsystems.com) |
 | **CINTE** | Telecommunications and technology, since 2004 | [cinte.com.br](https://cinte.com.br) |
