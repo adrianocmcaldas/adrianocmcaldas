@@ -5,7 +5,7 @@
   <img alt="Adriano Caldas — Strategi · Systemer · Drift" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light.svg" width="100%">
 </picture>
 
-[PT](./README.md) · [EN](./README.en.md) · [ES](./README.es.md) · **NO**
+[PT](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.pt.md) · [EN](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.md) · [ES](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.es.md) · **NO**
 
 # Adriano César Moreno Caldas
 

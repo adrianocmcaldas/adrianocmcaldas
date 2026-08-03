@@ -5,7 +5,7 @@
   <img alt="Adriano Caldas — Estrategia · Sistemas · Operaciones" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light.svg" width="100%">
 </picture>
 
-[PT](./README.md) · [EN](./README.en.md) · **ES** · [NO](./README.no.md)
+[PT](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.pt.md) · [EN](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.md) · **ES** · [NO](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.no.md)
 
 # Adriano César Moreno Caldas
 
