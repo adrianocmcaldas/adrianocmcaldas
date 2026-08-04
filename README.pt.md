@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-dark.svg">
-  <img alt="Adriano Caldas — Estratégia · Sistemas · Operação" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-dark-pt.svg">
+  <img alt="Adriano Caldas — Estratégia · Sistemas · Operação" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light-pt.svg" width="100%">
 </picture>
 
 **PT** · [EN](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.md) · [ES](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.es.md) · [NO](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.no.md)

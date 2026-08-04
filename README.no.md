@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-dark.svg">
-  <img alt="Adriano Caldas — Strategi · Systemer · Drift" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-dark-no.svg">
+  <img alt="Adriano Caldas — Strategi · Systemer · Drift" src="https://raw.githubusercontent.com/adrianocmcaldas/adrianocmcaldas/main/assets/banner-light-no.svg" width="100%">
 </picture>
 
 [PT](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.pt.md) · [EN](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.md) · [ES](https://github.com/adrianocmcaldas/adrianocmcaldas/blob/main/README.es.md) · **NO**
