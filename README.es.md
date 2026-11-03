@@ -65,7 +65,7 @@ Trabajo entre la **dirección tecnológica**, la **creación de productos** y la
 
 **Colaboraciones seleccionadas** — [Plorea 🇳🇴](https://plorea.no) comercio unificado · [Grupo Laeras](https://grupolaeras.com) plataformas digitales · [Innocards Loyalty 🇨🇭](https://innocardloyalty.ch) fidelización
 
-**Participaciones societarias** — [AI Robotics 🇳🇴](https://airobotics.no) robots de servicio autónomos para empresas en Noruega
+**Participaciones societarias** — [AI Robotics 🇳🇴](https://airobotics.no) · socio y CTO · robots de servicio autónomos para empresas en Noruega
 
 ## `»` Patentes
 
@@ -77,9 +77,9 @@ Siete solicitudes de patente en dos países — de la electrónica embebida a la
 | `P202631351` | Reparto de un presupuesto de cómputo por elemento entre capas de una red neuronal | 🇪🇸 OEPM · presentada en 2026 · en tramitación |
 | `P202631352` | Ampliación de un reservorio de unidades direccionables que preserva la función calculada | 🇪🇸 OEPM · presentada en 2026 · en tramitación |
 | `P202631353` | Rescate por división de unidades infrautilizadas en un reservorio de unidades direccionables | 🇪🇸 OEPM · presentada en 2026 · en tramitación |
-| `PI 0600924-7` | Conmutador de combustible para automóviles bi o tricombustible con medición digital del volumen de GNV | 🇧🇷 INPI · presentada en 2006 · publicada en 2007 |
-| `PI 0706462-4` | Estetoscopio electrónico digital con almacenamiento, transmisión inalámbrica y sugerencia de diagnóstico | 🇧🇷 INPI · presentada en 2007 · publicada en 2009 |
-| `PI 0801894-4` | Analizador de nivel y calidad de combustible en estaciones de servicio, con procesamiento remoto | 🇧🇷 INPI · presentada en 2008 · publicada en 2010 |
+| `PI 0600924-7` | Conmutador de combustible para automóviles bi o tricombustible con medición digital del volumen de GNV | 🇧🇷 INPI · presentada en 2006 · publicada en 2007 · archivada en 2012 |
+| `PI 0706462-4` | Estetoscopio electrónico digital con almacenamiento, transmisión inalámbrica y sugerencia de diagnóstico | 🇧🇷 INPI · presentada en 2007 · publicada en 2009 · archivada en 2012 |
+| `PI 0801894-4` | Analizador de nivel y calidad de combustible en estaciones de servicio, con procesamiento remoto | 🇧🇷 INPI · presentada en 2008 · publicada en 2010 · archivada en 2012 |
 
 Solicitudes españolas presentadas por AD Caldas Innotec, S.A.; solicitudes brasileñas con Adriano como titular e inventor. Registro completo en [adrianocaldas.com](https://adrianocaldas.com/?lang=es#patentes).
 
