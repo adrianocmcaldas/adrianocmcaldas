@@ -65,6 +65,24 @@ I work across **technology direction**, **product creation** and **complex opera
 
 **Selected collaborations** — [Plorea 🇳🇴](https://plorea.no) unified commerce · [Grupo Laeras](https://grupolaeras.com) digital platforms · [Innocards Loyalty 🇨🇭](https://innocardloyalty.ch) loyalty
 
+**Equity holdings** — [AI Robotics 🇳🇴](https://airobotics.no) autonomous service robots for Norwegian businesses
+
+## `»` Patents
+
+Seven patent applications in two countries — from embedded electronics to neural networks.
+
+| Number | Invention | Office · status |
+|---|---|---|
+| `P202631350` | Conditional computation with a reservoir of addressable neurons and exact-cardinality selection | 🇪🇸 OEPM · filed 2026 · pending |
+| `P202631351` | Allocation of a per-element compute budget across the layers of a neural network | 🇪🇸 OEPM · filed 2026 · pending |
+| `P202631352` | Expansion of a reservoir of addressable units that preserves the computed function | 🇪🇸 OEPM · filed 2026 · pending |
+| `P202631353` | Rescue of under-used units by splitting, in a reservoir of addressable units | 🇪🇸 OEPM · filed 2026 · pending |
+| `PI 0600924-7` | Fuel selector switch for bi- or tri-fuel cars with digital measurement of CNG volume | 🇧🇷 INPI · filed 2006 · published 2007 |
+| `PI 0706462-4` | Digital electronic stethoscope with data storage, wireless transmission and diagnostic suggestion | 🇧🇷 INPI · filed 2007 · published 2009 |
+| `PI 0801894-4` | Vehicle fuel level and quality analyser for filling stations, with remote processing | 🇧🇷 INPI · filed 2008 · published 2010 |
+
+Spanish applications filed by AD Caldas Innotec, S.A.; Brazilian applications held by Adriano as inventor. Full register at [adrianocaldas.com](https://adrianocaldas.com/?lang=en#patentes).
+
 ## `»` Journey
 
 ```text

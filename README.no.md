@@ -65,6 +65,24 @@ Jeg arbeider i skjæringspunktet mellom **teknologiledelse**, **produktutvikling
 
 **Utvalgte samarbeid** — [Plorea 🇳🇴](https://plorea.no) samlet handel · [Grupo Laeras](https://grupolaeras.com) digitale plattformer · [Innocards Loyalty 🇨🇭](https://innocardloyalty.ch) lojalitet
 
+**Eierandeler** — [AI Robotics 🇳🇴](https://airobotics.no) autonome serviceroboter for norske virksomheter
+
+## `»` Patenter
+
+Sju patentsøknader i to land — fra innebygd elektronikk til nevrale nettverk.
+
+| Nummer | Oppfinnelse | Kontor · status |
+|---|---|---|
+| `P202631350` | Betinget beregning med et reservoar av adresserbare nevroner og utvalg med eksakt kardinalitet | 🇪🇸 OEPM · levert 2026 · under behandling |
+| `P202631351` | Fordeling av et beregningsbudsjett per element mellom lagene i et nevralt nettverk | 🇪🇸 OEPM · levert 2026 · under behandling |
+| `P202631352` | Utvidelse av et reservoar av adresserbare enheter som bevarer den beregnede funksjonen | 🇪🇸 OEPM · levert 2026 · under behandling |
+| `P202631353` | Redning av underutnyttede enheter ved deling i et reservoar av adresserbare enheter | 🇪🇸 OEPM · levert 2026 · under behandling |
+| `PI 0600924-7` | Drivstoffvelger for biler med to eller tre drivstoff, med digital måling av CNG-volum | 🇧🇷 INPI · levert 2006 · publisert 2007 |
+| `PI 0706462-4` | Digitalt elektronisk stetoskop med datalagring, trådløs overføring og diagnoseforslag | 🇧🇷 INPI · levert 2007 · publisert 2009 |
+| `PI 0801894-4` | Analysator for nivå og kvalitet på drivstoff ved bensinstasjoner, med fjernbehandling | 🇧🇷 INPI · levert 2008 · publisert 2010 |
+
+De spanske søknadene er levert av AD Caldas Innotec, S.A.; de brasilianske har Adriano som innehaver og oppfinner. Fullt register på [adrianocaldas.com](https://adrianocaldas.com/?lang=nb#patentes).
+
 ## `»` Utvikling
 
 ```text

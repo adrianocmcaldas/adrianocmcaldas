@@ -65,6 +65,24 @@ O [**NordixBIOS**](https://nordixbios.com) é o meu projeto mais recente: uma **
 
 **Colaborações selecionadas** — [Plorea 🇳🇴](https://plorea.no) unified commerce · [Grupo Laeras](https://grupolaeras.com) plataformas digitais · [Innocards Loyalty 🇨🇭](https://innocardloyalty.ch) fidelização
 
+**Participações societárias** — [AI Robotics 🇳🇴](https://airobotics.no) robôs de serviço autônomos para empresas na Noruega
+
+## `»` Patentes
+
+Sete pedidos de patente em dois países — da eletrônica embarcada às redes neurais.
+
+| Número | Invenção | Escritório · situação |
+|---|---|---|
+| `P202631350` | Computação condicional com reservatório de neurônios endereçáveis e seleção de cardinalidade exata | 🇪🇸 OEPM · apresentado em 2026 · em tramitação |
+| `P202631351` | Distribuição de um orçamento de computação por elemento entre camadas de uma rede neural | 🇪🇸 OEPM · apresentado em 2026 · em tramitação |
+| `P202631352` | Ampliação de um reservatório de unidades endereçáveis que preserva a função calculada | 🇪🇸 OEPM · apresentado em 2026 · em tramitação |
+| `P202631353` | Resgate por divisão de unidades subutilizadas em um reservatório de unidades endereçáveis | 🇪🇸 OEPM · apresentado em 2026 · em tramitação |
+| `PI 0600924-7` | Chave comutadora para automóveis bi ou tricombustível com medição digital do volume de GNV | 🇧🇷 INPI · depósito 2006 · publicado 2007 |
+| `PI 0706462-4` | Estetoscópio eletrônico digital com armazenamento, transmissão sem fio e sugestão de diagnóstico | 🇧🇷 INPI · depósito 2007 · publicado 2009 |
+| `PI 0801894-4` | Analisador de nível e qualidade de combustível em postos, com processamento remoto | 🇧🇷 INPI · depósito 2008 · publicado 2010 |
+
+Pedidos espanhóis apresentados pela AD Caldas Innotec, S.A.; pedidos brasileiros com Adriano como titular e inventor. Registro completo em [adrianocaldas.com](https://adrianocaldas.com/?lang=pt#patentes).
+
 ## `»` Trajetória
 
 ```text
