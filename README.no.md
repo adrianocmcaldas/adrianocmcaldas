@@ -56,6 +56,7 @@ Jeg arbeider i skjæringspunktet mellom **teknologiledelse**, **produktutvikling
 | Eget produkt | Fokus | Domene |
 |---|---|---|
 | **NordixBIOS** | **Agentic AI Factory** — KI-arbeidere for programvaren din | [nordixbios.com](https://nordixbios.com) |
+| **NordixAIgency** | KI-agenter som utfører reelle handlinger i egen og ekstern programvare | [nordixaigency.com](https://nordixaigency.com) |
 | **Cinteca** | Teknologimerket til AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | KI og programvare for juridisk sektor | [legalneuron.es](https://legalneuron.es) |
 | **NCS Engine** | Infrastruktur for KI-arbeidslaster | [ncsengine.com](https://ncsengine.com) |

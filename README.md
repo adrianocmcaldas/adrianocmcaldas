@@ -56,6 +56,7 @@ I work across **technology direction**, **product creation** and **complex opera
 | Owned product | Focus | Domain |
 |---|---|---|
 | **NordixBIOS** | **Agentic AI Factory** — AI workers for your software | [nordixbios.com](https://nordixbios.com) |
+| **NordixAIgency** | AI agents that carry out real actions across own and third-party software | [nordixaigency.com](https://nordixaigency.com) |
 | **Cinteca** | Technology brand of AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | AI and software for the legal sector | [legalneuron.es](https://legalneuron.es) |
 | **NCS Engine** | Infrastructure for AI workloads | [ncsengine.com](https://ncsengine.com) |

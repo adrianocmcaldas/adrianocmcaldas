@@ -56,6 +56,7 @@ O [**NordixBIOS**](https://nordixbios.com) é o meu projeto mais recente: uma **
 | Produto próprio | Foco | Domínio |
 |---|---|---|
 | **NordixBIOS** | **Agentic AI Factory** — trabalhadores de IA para o seu software | [nordixbios.com](https://nordixbios.com) |
+| **NordixAIgency** | Agentes de IA que executam ações reais em softwares próprios e de terceiros | [nordixaigency.com](https://nordixaigency.com) |
 | **Cinteca** | Marca tecnológica da AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | IA e software para o setor jurídico | [legalneuron.es](https://legalneuron.es) |
 | **NCS Engine** | Infraestrutura para cargas de IA | [ncsengine.com](https://ncsengine.com) |

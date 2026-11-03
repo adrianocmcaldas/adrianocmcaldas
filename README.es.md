@@ -56,6 +56,7 @@ Trabajo entre la **dirección tecnológica**, la **creación de productos** y la
 | Producto propio | Foco | Dominio |
 |---|---|---|
 | **NordixBIOS** | **Agentic AI Factory** — trabajadores IA para tu software | [nordixbios.com](https://nordixbios.com) |
+| **NordixAIgency** | Agentes de IA que ejecutan acciones reales en software propio y de terceros | [nordixaigency.com](https://nordixaigency.com) |
 | **Cinteca** | Marca tecnológica de AD Caldas Innotec, S.A. | [cinteca.es](https://cinteca.es) |
 | **LegalNeuron** | IA y software para el sector jurídico | [legalneuron.es](https://legalneuron.es) |
 | **NCS Engine** | Infraestructura para cargas de IA | [ncsengine.com](https://ncsengine.com) |
